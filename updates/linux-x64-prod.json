@@ -1,8 +1,8 @@
 {
   "linux-x64-prod": {
-    "update": "https://github.com/fatmganimedes/ganimedes-releases/releases/download/linux-x64-prod-1.21.0/Ganimedes-1.21.0.AppImage",
-    "install": "https://github.com/fatmganimedes/ganimedes-releases/releases/download/linux-x64-prod-1.21.0/Ganimedes-1.21.0.AppImage",
-    "version": "1.21.0",
-    "sha256": "edf21c42ea5e8567053453ae510ab68e39442a9f99819ee857d4759b64642d2a"
+    "update": "https://github.com/fatmganimedes/ganimedes-releases/releases/download/linux-x64-prod-1.21.2/Ganimedes-1.21.2.AppImage",
+    "install": "https://github.com/fatmganimedes/ganimedes-releases/releases/download/linux-x64-prod-1.21.2/Ganimedes-1.21.2.AppImage",
+    "version": "1.21.2",
+    "sha256": "7a050fab65394166e2c42967585489a59227badea07227ae614896be56d99569"
   }
 }
